@@ -1,2 +1,2 @@
-# Egg-timer
+# Eggtimer
 Swift egg timer
